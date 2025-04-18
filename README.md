@@ -48,7 +48,7 @@ git clone https://github.com/mohd-arham-islam/powerBI-highlightMatrix.git
 ### ✅ Option 2: Download as ZIP
 
 1. Visit the repository: [https://github.com/mohd-arham-islam/powerBI-highlightMatrix](https://github.com/mohd-arham-islam/powerBI-highlightMatrix)  
-2. Click the green **Code** button  
+2. Click the **Code** button at the top 
 3. Select **Download ZIP**  
 4. Extract the contents  
 5. Open `The Office.pbix` in **Power BI Desktop**
