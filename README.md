@@ -37,8 +37,18 @@ When selecting **"Idris Elba"** as a guest appearance, only the episodes featuri
 
 You can explore this in the `.pbix` file provided.
 
-> 🔽 **Download Instructions:**  
-Clone the repository or download it as a ZIP file and open the `The Office.pbix` file in Power BI Desktop.
+### ✅ Option 1: Clone the Repository
 
----
+If you have Git installed, run the following command in your terminal:
 
+```bash
+git clone https://github.com/mohd-arham-islam/powerBI-highlightMatrix.git
+```
+
+### ✅ Option 2: Download as ZIP
+
+1. Visit the repository: [https://github.com/mohd-arham-islam/powerBI-highlightMatrix](https://github.com/mohd-arham-islam/powerBI-highlightMatrix)  
+2. Click the green **Code** button  
+3. Select **Download ZIP**  
+4. Extract the contents  
+5. Open `The Office.pbix` in **Power BI Desktop**
